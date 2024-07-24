@@ -34,7 +34,7 @@ body {
 }
 h2 {
   font-size: 25px;
-  color: rgb(255, 94, 0);
+  color: rgb(255, 121, 44);
   text-decoration: none;
   margin-left: -470px;
   margin-top: 20px;
@@ -50,7 +50,7 @@ h2 {
   padding: 30px;
 }
 #home:hover {
-  color: rgb(255, 94, 0);
+  color: rgb(255, 121, 44);
   text-decoration: overline;
 }
 #about {
@@ -60,7 +60,7 @@ h2 {
   padding: 30px;
 }
 #about:hover {
-  color: rgb(255, 94, 0);
+  color: rgb(255, 121, 44);
   text-decoration: overline;
 }
 #project {
@@ -70,7 +70,7 @@ h2 {
   padding: 30px;
 }
 #project:hover {
-  color: rgb(255, 94, 0);
+  color: rgb(255, 121, 44);
   text-decoration: overline;
 }
 #contact {
@@ -80,11 +80,11 @@ h2 {
   padding: 30px;
 }
 #contact:hover {
-  color: rgb(255, 94, 0);
+  color: rgb(255, 121, 44);
   text-decoration: overline;
 }
 span {
-  color: rgb(255, 94, 0);
+  color: rgb(255, 121, 44);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 #homeblock {
@@ -124,7 +124,7 @@ h3 {
   content: "";
   width: 0;
   height: 3px;
-  background: rgb(255, 94, 0);
+  background: rgb(255, 121, 44);
   left: 0;
   position: absolute;
   bottom: -8px;
@@ -166,7 +166,7 @@ li {
   font-size: 24px;
 }
 .block i {
-  color: rgb(255, 94, 0);
+  color: rgb(255, 121, 44);
 }
 .social-icons i {
   font-size: 30px;
@@ -181,9 +181,9 @@ li {
 .resume a {
   padding: 15px;
   font-size: 20px;
-  background-color: rgb(255, 94, 0);
+  background-color: rgb(255, 121, 44);
   color: white;
-  border: rgb(255, 94, 0);
+  border: rgb(255, 121, 44);
   border-radius: 5%;
   margin-left: 110px;
   text-decoration: none;
@@ -245,7 +245,7 @@ li {
     width:190px;
     background-color: rgb(38, 39, 36);
     font-size: 20px;
-    color: rgb(255, 94, 0);
+    color: rgb(255, 121, 44);
     display: inline-block;
   }
   h3 {
@@ -292,7 +292,6 @@ li {
   }
   .contact {
     font-size: 15px;
-    font-weight: bolder;
     width: 250px;
     margin-top: 30px;
     margin-left: -230px;
