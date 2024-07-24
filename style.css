@@ -34,7 +34,7 @@ body {
 }
 h2 {
   font-size: 25px;
-  color: orangered;
+  color: rgb(255, 94, 0);
   text-decoration: none;
   margin-left: -470px;
   margin-top: 20px;
@@ -50,7 +50,7 @@ h2 {
   padding: 30px;
 }
 #home:hover {
-  color: rgb(251, 80, 17);
+  color: rgb(255, 94, 0);
   text-decoration: overline;
 }
 #about {
@@ -60,7 +60,7 @@ h2 {
   padding: 30px;
 }
 #about:hover {
-  color: rgb(251, 80, 17);
+  color: rgb(255, 94, 0);
   text-decoration: overline;
 }
 #project {
@@ -70,7 +70,7 @@ h2 {
   padding: 30px;
 }
 #project:hover {
-  color: rgb(251, 80, 17);
+  color: rgb(255, 94, 0);
   text-decoration: overline;
 }
 #contact {
@@ -80,11 +80,11 @@ h2 {
   padding: 30px;
 }
 #contact:hover {
-  color: rgb(251, 80, 17);
+  color: rgb(255, 94, 0);
   text-decoration: overline;
 }
 span {
-  color: orangered;
+  color: rgb(255, 94, 0);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 #homeblock {
@@ -124,7 +124,7 @@ h3 {
   content: "";
   width: 0;
   height: 3px;
-  background: rgb(255, 68, 0);
+  background: rgb(255, 94, 0);
   left: 0;
   position: absolute;
   bottom: -8px;
@@ -166,7 +166,7 @@ li {
   font-size: 24px;
 }
 .block i {
-  color: orangered;
+  color: rgb(255, 94, 0);
 }
 .social-icons i {
   font-size: 30px;
@@ -181,9 +181,9 @@ li {
 .resume a {
   padding: 15px;
   font-size: 20px;
-  background-color: rgb(255, 68, 0);
+  background-color: rgb(255, 94, 0);
   color: white;
-  border: orangered;
+  border: rgb(255, 94, 0);
   border-radius: 5%;
   margin-left: 110px;
   text-decoration: none;
@@ -202,7 +202,7 @@ li {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-top: 40px;
+    margin-top: 30px;
   }
   .nav a {
     display: none;
@@ -212,7 +212,7 @@ li {
     margin-left: -40px;
   }
   #hi {
-    margin-top: -120px;
+    margin-top: -110px;
     margin-bottom: 12px;
     font-size: 20px;
   }
@@ -245,7 +245,7 @@ li {
     width:190px;
     background-color: rgb(38, 39, 36);
     font-size: 20px;
-    color: orangered;
+    color: rgb(255, 94, 0);
     display: inline-block;
   }
   h3 {
@@ -291,7 +291,7 @@ li {
     margin-bottom:30px;
   }
   .contact {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: bolder;
     width: 250px;
     margin-top: 30px;
